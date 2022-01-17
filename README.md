@@ -77,8 +77,8 @@ android.applicationVariants.all { variant ->
 }
 ```
 
-## Шаг 3
-Всё готово, можете проверить на примере
+____
+Всё готово! Можете теперь проверить на примере:
 
 ```java
 import java.lang.annotation.ElementType;
