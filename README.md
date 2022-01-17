@@ -126,3 +126,6 @@ public class AspectThreading {
 В итоге благодаря этому коду и Aspect наши функции могу выполнятся в другом потоке, если на них просто повесить аннотацию.
 
 Здесь более подробно расписано про Pointcut --> https://www.baeldung.com/spring-aop-pointcut-tutorial
+
+____
+Ссылка откуда брал --> https://github.com/Archinamon/android-gradle-aspectj
